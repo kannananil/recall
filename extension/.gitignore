@@ -1,0 +1,23 @@
+# Build output
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# Temporary files
+*.crx
+*.pem
+*.zip
+
+# Editor
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
